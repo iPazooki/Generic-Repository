@@ -1,0 +1,15 @@
+D:\GitHub\Generic-Repository\Source\NhibernateMapping\bin\Debug\NhibernateMapping.dll
+D:\GitHub\Generic-Repository\Source\NhibernateMapping\bin\Debug\NhibernateMapping.pdb
+D:\GitHub\Generic-Repository\Source\NhibernateMapping\obj\Debug\NhibernateMapping.csprojResolveAssemblyReference.cache
+D:\GitHub\Generic-Repository\Source\NhibernateMapping\obj\Debug\NhibernateMapping.dll
+D:\GitHub\Generic-Repository\Source\NhibernateMapping\obj\Debug\NhibernateMapping.pdb
+D:\GitHub\Generic-Repository\Source\NhibernateMapping\bin\Debug\FluentNHibernate.dll
+D:\GitHub\Generic-Repository\Source\NhibernateMapping\bin\Debug\GenericRepository.dll
+D:\GitHub\Generic-Repository\Source\NhibernateMapping\bin\Debug\Iesi.Collections.dll
+D:\GitHub\Generic-Repository\Source\NhibernateMapping\bin\Debug\NHibernate.dll
+D:\GitHub\Generic-Repository\Source\NhibernateMapping\bin\Debug\NHibernate.Linq.dll
+D:\GitHub\Generic-Repository\Source\NhibernateMapping\bin\Debug\GenericRepository.pdb
+D:\GitHub\Generic-Repository\Source\NhibernateMapping\bin\Debug\FluentNHibernate.xml
+D:\GitHub\Generic-Repository\Source\NhibernateMapping\bin\Debug\Iesi.Collections.xml
+D:\GitHub\Generic-Repository\Source\NhibernateMapping\bin\Debug\NHibernate.xml
+D:\GitHub\Generic-Repository\Source\NhibernateMapping\bin\Debug\NHibernate.Linq.xml

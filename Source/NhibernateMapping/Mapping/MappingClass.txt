@@ -1,0 +1,22 @@
+﻿You just need to add your mapping class here.
+
+ex:
+
+using FluentNHibernate.Mapping;
+
+namespace NhibernateORM.Mapping.Link
+{
+    public class LinkMap : ClassMap<LinkObj>
+    {
+        public LinkMap()
+        {
+            Id(l => l.Id).GeneratedBy.HiLo("100");
+
+            Map(l => l.Name).Length(80).Not.Nullable();
+
+            Map(l => l.Url).Length(80).Not.Nullable();
+			
+			...
+        }
+    }
+}

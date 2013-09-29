@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericRepository", "GenericRepository.csproj", "{CD359B68-2FC8-4EF0-AA5D-193C7EFD7E47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NhibernateMapping", "..\NhibernateMapping\NhibernateMapping.csproj", "{831F9225-E941-4790-B560-492C29CB7B01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD359B68-2FC8-4EF0-AA5D-193C7EFD7E47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD359B68-2FC8-4EF0-AA5D-193C7EFD7E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD359B68-2FC8-4EF0-AA5D-193C7EFD7E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD359B68-2FC8-4EF0-AA5D-193C7EFD7E47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{831F9225-E941-4790-B560-492C29CB7B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{831F9225-E941-4790-B560-492C29CB7B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{831F9225-E941-4790-B560-492C29CB7B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{831F9225-E941-4790-B560-492C29CB7B01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

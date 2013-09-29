@@ -1,0 +1,4 @@
+D:\GitHub\Generic-Repository\Source\GenericRepository\bin\Debug\GenericRepository.dll
+D:\GitHub\Generic-Repository\Source\GenericRepository\bin\Debug\GenericRepository.pdb
+D:\GitHub\Generic-Repository\Source\GenericRepository\obj\Debug\GenericRepository.dll
+D:\GitHub\Generic-Repository\Source\GenericRepository\obj\Debug\GenericRepository.pdb
