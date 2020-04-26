@@ -1,0 +1,18 @@
+﻿@model IEnumerable<Domain.Person>
+@{    
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h2 class="display-4">Generic Repository Pattern with UnitOfWork and EF Core</h2>
+    <br />
+    <p>Developers</p>
+
+    <table>
+        @foreach (var item in Model)
+        {
+            <tr><td>@item.Name</td></tr>
+        }
+
+    </table>
+</div>
